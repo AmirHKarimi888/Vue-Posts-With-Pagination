@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 2,
+      "title": "2",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 3,
+      "title": "3",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 4,
+      "title": "4",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 5,
+      "title": "5",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 6,
+      "title": "6",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 7,
+      "title": "7",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 8,
+      "title": "8",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 9,
+      "title": "9",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    },
+    {
+      "id": 10,
+      "title": "10",
+      "poster": "",
+      "likedBy": [],
+      "contents": [],
+      "comments": [],
+      "editStatus": false
+    }
+  ]
+}
