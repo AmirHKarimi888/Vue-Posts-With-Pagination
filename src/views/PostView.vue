@@ -60,9 +60,9 @@ const likePost = () => {
 <template>
     <div class="post">
         <div
-            class="mx-auto text-center w-[60%] my-[200px] p-9 dark:bg-gray-950 rounded-lg border dark:border-gray-700 dark:text-white">
+            class="mx-auto text-center w-[60%] my-[200px] p-9 dark:bg-gray-900 rounded-lg border dark:border-gray-700 dark:text-white">
             <p class="">{{ post?.title }}</p>
-            <img :src="post?.poster" alt="" class="mx-auto mt-6 w-[90%] aspect-video mb-5">
+            <img :src="post?.poster" alt="" class="mx-auto mt-6 w-[100%] aspect-video mb-5">
             <p class="">views: {{ post?.views }}</p>
             <p class="">likes: {{ post?.likedBy?.length }}</p>
             <button @click="likePost" class=" mr-[85%] mt-5">
